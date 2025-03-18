@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dmytro Horpynenko  
 
-🚀 **System Architect | Team Lead | Senior Software Developer**  
+🚀 **Senior Software Developer**  
 💻 Passionate about **Python, GoLang, PHP, and scalable system architecture**  
 🌍 25+ years of experience in **backend development, cloud solutions, and DevOps**  
 
